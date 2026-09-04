@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sathwika Dimmiti is a Data Analyst skilled in SQL, Python, Power BI, and Excel, with experience in ETL, data validation, and dashboard development. She most recently worked as an Associate Data Analyst at Tech Mahindra (Nov 2025 – Sept 2026) and previously as an AI Intern at ISRO. She holds a B.Tech in CSE (AI & ML) from KG Reddy College of Engineering and Technology, along with certifications from Stanford, Cambridge, and Udemy. Her project work includes a Credit Card Fraud Detection model (95%+ accuracy) and a Power BI-based Customer Trends Analysis. She's now seeking her next opportunity, with a focus on financial data engineering and analytics.
+Sathwika Dimmiti is a Data Analyst skilled in SQL, Python, Power BI, and Excel, with experience in ETL, data validation, and dashboard development. Most recently worked as an Associate Data Analyst at Tech Mahindra (Nov 2025 – Sept 2026) and previously as an AI Intern at ISRO. I hold a B.Tech in CSE (AI & ML) from KG Reddy College of Engineering and Technology, along with certifications from Stanford, Cambridge, and Udemy. My project work includes a Credit Card Fraud Detection model (95%+ accuracy) and a Power BI-based Customer Trends Analysis. I'm now seeking her next opportunity, with a focus on financial data engineering and analytics.
 
 
 ## 🌐 Socials:
